@@ -1,0 +1,2 @@
+Fitxer editat amb vs code desde Git bash
+- code llegeix-me.txt

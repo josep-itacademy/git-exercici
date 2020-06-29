@@ -1,0 +1,2 @@
+Nou fitxer de texte
+git touch llegeix-me2.txt 
