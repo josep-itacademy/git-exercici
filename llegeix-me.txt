@@ -1,3 +1,7 @@
+
 Fet el canvi al document llegeix-me a master desprès de fer push de la branch1
+
+Fetes les modificacions a llegeix-me.txt a branch1
+
 Fitxer editat amb vs code desde Git bash
 - code llegeix-me.txt
