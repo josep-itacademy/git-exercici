@@ -1,2 +1,3 @@
+Fetes les modificacions a llegeix-me.txt a branch1
 Fitxer editat amb vs code desde Git bash
 - code llegeix-me.txt
